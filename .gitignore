@@ -29,3 +29,6 @@ vendor/
 # OS specific files
 .DS_Store
 Thumbs.db
+
+# Kiro steering files (local only)
+.kiro/
